@@ -1,4 +1,4 @@
-package Stan;
+
 
 import console.*;
 import domain.*;
@@ -6,7 +6,7 @@ import repository.*;
 import service.*;
 import validation.*;
 
-public class App {
+public class Main {
     public static void main(String[] args) {
         Validator<Student> studentValidator = new StudentValidator();
         Validator<Tema> temaValidator = new TemaValidator();
