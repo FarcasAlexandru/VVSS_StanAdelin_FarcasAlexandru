@@ -2,91 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="85e32127-5bbe-4104-941b-2f4970d30c85" name="Default" comment="">
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/encodings.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__junit_junit_4_11.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_hamcrest_hamcrest_core_1_3.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/Main.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/console/UI.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/domain/HasID.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/domain/Nota.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/domain/Pair.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/domain/Student.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/domain/Tema.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/Main.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/console/UI.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/domain/HasID.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/domain/Nota.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/domain/Pair.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/domain/Student.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/domain/Tema.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/console/UI.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/domain/HasID.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/domain/Nota.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/domain/Pair.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/domain/Student.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/domain/Tema.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/repository/AbstractCRUDRepository.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/repository/AbstractFileRepository.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/repository/AbstractXMLRepository.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/repository/CRUDRepository.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/repository/NotaFileRepository.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/repository/NotaRepository.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/repository/NotaXMLRepository.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/repository/StudentFileRepository.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/repository/StudentRepository.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/repository/StudentXMLRepository.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/repository/TemaFileRepository.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/repository/TemaRepository.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/repository/TemaXMLRepository.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/service/Service.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/validation/NotaValidator.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/validation/StudentValidator.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/validation/TemaValidator.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/validation/ValidationException.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/validation/Validator.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/repository/AbstractCRUDRepository.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/repository/AbstractFileRepository.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/repository/AbstractXMLRepository.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/repository/CRUDRepository.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/repository/NotaFileRepository.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/repository/NotaRepository.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/repository/NotaXMLRepository.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/repository/StudentFileRepository.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/repository/StudentRepository.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/repository/StudentXMLRepository.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/repository/TemaFileRepository.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/repository/TemaRepository.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/repository/TemaXMLRepository.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/service/Service.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/validation/NotaValidator.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/validation/StudentValidator.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/validation/TemaValidator.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/validation/ValidationException.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/validation/Validator.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/repository/AbstractCRUDRepository.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/repository/AbstractFileRepository.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/repository/AbstractXMLRepository.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/repository/CRUDRepository.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/repository/NotaFileRepository.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/repository/NotaRepository.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/repository/NotaXMLRepository.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/repository/StudentFileRepository.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/repository/StudentRepository.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/repository/StudentXMLRepository.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/repository/TemaFileRepository.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/repository/TemaRepository.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/repository/TemaXMLRepository.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/service/Service.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/test/java/service/ServiceTest.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/validation/NotaValidator.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/validation/StudentValidator.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/validation/TemaValidator.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/validation/ValidationException.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/validation/Validator.java" />
-      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" afterPath="$PROJECT_DIR$/.idea/compiler.xml" />
-      <change beforePath="$PROJECT_DIR$/VVSS.iml" afterPath="$PROJECT_DIR$/VVSS.iml" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Stan/App.java" afterPath="$PROJECT_DIR$/src/main/java/Stan/App.java" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" afterPath="$PROJECT_DIR$/pom.xml" />
+      <change beforePath="$PROJECT_DIR$/studenti.xml" afterPath="$PROJECT_DIR$/studenti.xml" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -154,11 +72,21 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="ServiceTest.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="ServiceTest.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/test/java/service/ServiceTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="357">
+            <state relative-caret-position="42">
               <caret line="29" column="28" lean-forward="false" selection-start-line="29" selection-start-column="16" selection-end-line="29" selection-end-column="28" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="XMLEntityManager.java" pinned="false" current-in-tab="true">
+        <entry file="jar://C:/Program Files/Java/jdk1.8.0_161/src.zip!/com/sun/org/apache/xerces/internal/impl/XMLEntityManager.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="133">
+              <caret line="622" column="0" lean-forward="false" selection-start-line="622" selection-start-column="0" selection-end-line="622" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -232,44 +160,6 @@
                 <marker date="1553063745551" expanded="false" signature="0:104" ph="/.../" />
                 <marker date="1553063745551" expanded="true" signature="277:284" ph="{}" />
                 <marker date="1553063745551" expanded="true" signature="327:499" ph="{...}" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="JUnitCore.class" pinned="false" current-in-tab="false">
-        <entry file="jar://$MAVEN_REPOSITORY$/junit/junit/4.11/junit-4.11.jar!/org/junit/runner/JUnitCore.class">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1701">
-              <caret line="110" column="0" lean-forward="false" selection-start-line="110" selection-start-column="0" selection-end-line="110" selection-end-column="0" />
-              <folding>
-                <marker date="1553063745551" expanded="false" signature="0:104" ph="/.../" />
-                <marker date="1553063745551" expanded="false" signature="140:625" ph="..." />
-                <marker date="1553063745551" expanded="true" signature="737:744" ph="{}" />
-                <marker date="1553063745551" expanded="false" signature="789:800" ph=" { " />
-                <marker date="1553063745551" expanded="false" signature="839:845" ph=" }" />
-                <marker date="1553063745551" expanded="true" signature="922:1047" ph="{...}" />
-                <marker date="1553063745551" expanded="true" signature="1122:1186" ph="{...}" />
-                <marker date="1553063745551" expanded="false" signature="1241:1252" ph=" { " />
-                <marker date="1553063745551" expanded="false" signature="1309:1315" ph=" }" />
-                <marker date="1553063745551" expanded="true" signature="1380:2503" ph="{...}" />
-                <marker date="1553063745551" expanded="false" signature="2535:2546" ph=" { " />
-                <marker date="1553063745551" expanded="false" signature="2566:2572" ph=" }" />
-                <marker date="1553063745551" expanded="false" signature="2613:2624" ph=" { " />
-                <marker date="1553063745551" expanded="false" signature="2685:2691" ph=" }" />
-                <marker date="1553063745551" expanded="false" signature="2751:2762" ph=" { " />
-                <marker date="1553063745551" expanded="false" signature="2814:2820" ph=" }" />
-                <marker date="1553063745551" expanded="false" signature="2860:2871" ph=" { " />
-                <marker date="1553063745551" expanded="false" signature="2908:2914" ph=" }" />
-                <marker date="1553063745551" expanded="false" signature="2948:2959" ph=" { " />
-                <marker date="1553063745551" expanded="false" signature="3015:3021" ph=" }" />
-                <marker date="1553063745551" expanded="true" signature="3060:3492" ph="{...}" />
-                <marker date="1553063745551" expanded="false" signature="3543:3554" ph=" { " />
-                <marker date="1553063745551" expanded="false" signature="3591:3597" ph=" }" />
-                <marker date="1553063745551" expanded="false" signature="3651:3662" ph=" { " />
-                <marker date="1553063745551" expanded="false" signature="3702:3708" ph=" }" />
-                <marker date="1553063745551" expanded="false" signature="3747:3758" ph=" { " />
-                <marker date="1553063745551" expanded="false" signature="3780:3786" ph=" }" />
               </folding>
             </state>
           </provider>
@@ -679,14 +569,11 @@
       <workItem from="1553063426118" duration="1023000" />
       <workItem from="1553067382424" duration="765000" />
       <workItem from="1554134702305" duration="4229000" />
-      <workItem from="1554270312946" duration="1173000" />
+      <workItem from="1554270312946" duration="1926000" />
     </task>
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="ServiceTest - 2019.04.01 at 19h 24m 51s.xml">
-      <configuration name="ServiceTest" configurationId="JUnit" />
-    </history-entry>
     <history-entry file="ServiceTest - 2019.04.01 at 19h 25m 46s.xml">
       <configuration name="ServiceTest" configurationId="JUnit" />
     </history-entry>
@@ -714,9 +601,12 @@
     <history-entry file="ServiceTest - 2019.04.03 at 08h 49m 56s.xml">
       <configuration name="ServiceTest" configurationId="JUnit" />
     </history-entry>
+    <history-entry file="ServiceTest - 2019.04.03 at 09h 48m 37s.xml">
+      <configuration name="ServiceTest" configurationId="JUnit" />
+    </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="7190000" />
+    <option name="totallyTimeSpent" value="7943000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-9" y="-9" width="1938" height="1098" extended-state="6" />
@@ -731,7 +621,7 @@
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.206041" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.34412083" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
@@ -1265,8 +1155,16 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/service/ServiceTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="357">
+        <state relative-caret-position="42">
           <caret line="29" column="28" lean-forward="false" selection-start-line="29" selection-start-column="16" selection-end-line="29" selection-end-column="28" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_161/src.zip!/com/sun/org/apache/xerces/internal/impl/XMLEntityManager.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="133">
+          <caret line="622" column="0" lean-forward="false" selection-start-line="622" selection-start-column="0" selection-end-line="622" selection-end-column="0" />
           <folding />
         </state>
       </provider>
